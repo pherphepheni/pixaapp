@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/pixaapp/static/js/main.a32603cb.chunk.js",
+    "main.js.map": "/pixaapp/static/js/main.a32603cb.chunk.js.map",
+    "runtime-main.js": "/pixaapp/static/js/runtime-main.b2d177c1.js",
+    "runtime-main.js.map": "/pixaapp/static/js/runtime-main.b2d177c1.js.map",
+    "static/js/2.7cc8251f.chunk.js": "/pixaapp/static/js/2.7cc8251f.chunk.js",
+    "static/js/2.7cc8251f.chunk.js.map": "/pixaapp/static/js/2.7cc8251f.chunk.js.map",
+    "index.html": "/pixaapp/index.html",
+    "precache-manifest.b7053003bdb23f2ac7a78e16922dbd7f.js": "/pixaapp/precache-manifest.b7053003bdb23f2ac7a78e16922dbd7f.js",
+    "service-worker.js": "/pixaapp/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2d177c1.js",
+    "static/js/2.7cc8251f.chunk.js",
+    "static/js/main.a32603cb.chunk.js"
+  ]
+}
